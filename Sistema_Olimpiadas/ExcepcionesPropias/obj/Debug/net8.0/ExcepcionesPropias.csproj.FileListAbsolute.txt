@@ -1,0 +1,638 @@
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\Obligatorio-3\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll

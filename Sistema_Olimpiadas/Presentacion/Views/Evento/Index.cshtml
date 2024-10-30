@@ -1,0 +1,56 @@
+﻿@model IEnumerable<DTO.ListadoEventosDTO>
+@{
+    ViewBag.Title = "Buscar Eventos";
+    var fechaSeleccionada = ViewBag.Fecha ?? DateTime.Now;
+}
+
+<h2>Buscar Eventos por Fecha</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.Error
+    </div>
+}
+
+<form method="post" action="@Url.Action("Index", "Evento")">
+    <div class="form-group">
+        <label for="fecha">Seleccione una fecha:</label>
+        <input type="date" id="fecha" name="fecha" class="form-control"
+               value="@fechaSeleccionada.ToString("yyyy-MM-dd")" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h3 class="mt-4">Eventos Encontrados:</h3>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var evento in Model)
+            {
+                <tr>
+                    <td>@evento.NombreEvento</td>
+                    <td>@evento.FechaFinal.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        @Html.ActionLink("Ir a Evento", "Edit", new { id = evento.IdEvento }, new { @class = "btn btn-primary" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (!Model.Any())
+{
+    <div class="alert alert-info mt-4">
+        Seleccione una fecha con Eventos.
+    </div>
+}

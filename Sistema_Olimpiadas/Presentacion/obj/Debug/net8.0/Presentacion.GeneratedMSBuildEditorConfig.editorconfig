@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Presentacion
+build_property.RootNamespace = Presentacion
+build_property.ProjectDir = F:\USUARIO\Desktop\ORT\Programación III\OBLIGATORIOS FINALES\Obligatorio final 17-10\Presentacion\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\USUARIO\Desktop\ORT\Programación III\OBLIGATORIOS FINALES\Obligatorio final 17-10\Presentacion
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Atleta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRsZXRhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Atleta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRsZXRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Disciplina/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Disciplina/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Evento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Evento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Evento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Usuarios/ListaUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTGlzdGFVc3Vhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/USUARIO/Desktop/ORT/Programación III/OBLIGATORIOS FINALES/Obligatorio final 17-10/Presentacion/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-huwsf5vtt9

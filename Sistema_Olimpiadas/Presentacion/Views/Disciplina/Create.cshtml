@@ -1,0 +1,40 @@
+﻿@model DTO.AltaDisciplinaDTO
+
+
+<h1>REGISTRAR DISCIPLINA</h1>
+
+@ViewBag.Error
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">     
+                <input asp-for="IdDisciplina" class="form-control" type="hidden" readonly />
+                <span asp-validation-for="IdDisciplina" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreDisciplina" class="control-label"></label>
+                <input asp-for="NombreDisciplina" class="form-control" />
+                <span asp-validation-for="NombreDisciplina" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnioDisciplina" class="control-label"></label>
+                <input asp-for="AnioDisciplina" class="form-control" />
+                <span asp-validation-for="AnioDisciplina" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

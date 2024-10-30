@@ -1,0 +1,21 @@
+﻿@model string
+
+@{
+    ViewData["Title"] = "Eliminar Usuario";
+}
+
+<h1>Eliminar Usuario</h1>
+
+<p>¿Estás seguro de que deseas eliminar al usuario con el email: @Model?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    @Html.Hidden("email", Model)
+    <input type="submit" value="Eliminar" class="btn btn-danger" />
+    <a asp-action="ListaUsuarios" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+

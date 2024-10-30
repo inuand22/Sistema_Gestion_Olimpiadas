@@ -1,0 +1,83 @@
+﻿@model IEnumerable<DTO.ListadoUsuariosDTO>
+
+@{
+    ViewData["Title"] = "Listado de Usuarios";
+}
+
+<h1>Listado de Usuarios</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.IdUser)</th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreRol)
+            </th>
+            <th>@Html.DisplayNameFor(model => model.EmailAdmin) </th>
+            <th>@Html.DisplayNameFor(model => model.Date) </th>
+            <th>@Html.DisplayNameFor(model => model.Hora) </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            @if (ViewBag.Usuario.Email.Valor != item.EmailUsuario)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.IdUser)</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmailUsuario)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreRol)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmailAdmin)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Hora)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.IdUser }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.IdUser }) |
+                        @Html.ActionLink("Delete", "Delete", new { email = item.EmailUsuario }, new { @class = "text-danger" })
+                    </td>
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.IdUser)</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmailUsuario)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreRol)
+                    </td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.IdUser }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.IdUser })
+                    </td>
+                </tr>
+            }
+        }
+
+        @if (!string.IsNullOrEmpty(ViewBag.Error))
+        {
+            <tr>
+                <td colspan="3" class="text-danger">
+                    @ViewBag.Error
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

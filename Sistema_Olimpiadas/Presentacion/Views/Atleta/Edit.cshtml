@@ -1,0 +1,74 @@
+﻿@model Presentacion.Models.AtletaDisciplinasViewModel
+
+
+<h1>DISCIPLINAS DE ATLETA</h1>
+@ViewBag.Mensaje
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+           
+            <div class="form-group">
+                <input asp-for="DTOAtleta.IdAtleta" class="form-control" readonly type="hidden" />
+            </div>
+            <div class="form-group">
+                <label asp-for="DTOAtleta.NombreAtleta" class="control-label"></label>
+                <input asp-for="DTOAtleta.NombreAtleta" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="DTOAtleta.ApellidoAtleta" class="control-label"></label>
+                <input asp-for="DTOAtleta.ApellidoAtleta" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="DTOAtleta.SexoAtleta" class="control-label"></label>
+                <span class="form-control">
+                    @(Model.DTOAtleta.SexoAtleta == true ? "Hombre" : "Mujer")
+                </span>
+                <input type="hidden" asp-for="DTOAtleta.SexoAtleta" />
+            </div>
+            <div class="form-group">
+                <label asp-for="DTOAtleta.NombrePais" class="control-label"></label>
+                <input asp-for="DTOAtleta.NombrePais" class="form-control" readonly />
+            </div>
+            <hr />
+            <br />
+            <!-- Disciplinas Registradas -->
+            <h5>Disciplinas Registradas</h5>
+            <ul class="list-group">
+                @foreach (var disciplina in Model.DTODisciplinasRegistradas)
+                {
+                    <li class="list-group-item">@disciplina.NombreDisciplina (@disciplina.AnioDisciplina)</li>
+                }
+            </ul>
+            <hr />
+            <br />
+            <!-- Disciplinas Disponibles -->
+            <h5>Disciplinas Disponibles para Registro</h5>
+            <div class="form-group">
+                <label for="IdDisciplina">Seleccionar disciplina:</label>
+                <div class="input-group">
+                    <select asp-for="DTOAtleta.IdDisciplina" class="form-control">
+                        <option value="">Seleccionar disciplina</option> 
+                        @foreach (var disciplina in Model.DTODisciplinasDisponibles)
+                        {
+                            <option value="@disciplina.IdDisciplina">@disciplina.NombreDisciplina (@disciplina.AnioDisciplina)</option>
+                        }
+                    </select>
+               </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

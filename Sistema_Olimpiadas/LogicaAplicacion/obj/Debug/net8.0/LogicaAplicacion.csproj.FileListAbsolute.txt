@@ -1,0 +1,1119 @@
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-2\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\Obligatorio-3\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-4\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\19-9\Obligatorio-6\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-7\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-8(no salio la baja)\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-9 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-10 (Falta edit,details,login,roles admin y digitador)\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\20-9\Obligatorio-11(Falta edit,details)\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\24-9\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-11(Falta edit,details) -- ANDRES--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Obligatorio-24-09 Antes de clase\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\25-9\Obligatorio  - 25-9 (2)\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Obligatorio  - 25-9 (3) FINAL DIA\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Obligatorio  - 26-9\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Mediodia\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\26-9\Obligatorio  - 26-9 - Final (Sin Edit funcionando)\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\2da Entrega\Obligatorio  2da. Pre Entrega - Días Después --ARREGLADO\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\FINAL Obligatorio  2da. Pre Entrega\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - (No terminado) Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\3era. Pre Entrega - Solo Disciplina\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\ULTIMO 3era. ENTREGA\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\03-10\3era. Pre Entrega - Solo Disciplina --ULTIMO-- BACKUP\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\3era. Pre Entrega - Solo Disciplina --ULTIMO DÍA 03--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --11-35 HS--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --15-28 HS--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 --16-37 --HS--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\09-10\09-10 -- 21-23 --HS--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\Final sin UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\3era Entrega\3era Pre entrega FINAL\FINAL FINAL CON UML\09-10 -- 22-00 --HS--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Andres Alvarez 295384, Lucia Layes 291613\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\11-10 -- 1800 - ANDRES --\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 -- 1000 hs --\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 -- 1540 hs --LU--\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\12-10\12-10 - 1800-- Alta Lista -- ANDRES --\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\12-10 - 2000 -- Andres -- Falta Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\13-10\13-10 - 2230 -- Lu -- A medio camino Ingreso Puntaje\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\14-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\4ta Entrega\15-10 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1234 -- ANDRES -- FALTA PUNTAJE EVENTOATLETA\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1650 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll

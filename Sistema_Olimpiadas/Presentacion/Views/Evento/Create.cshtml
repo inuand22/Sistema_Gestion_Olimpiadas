@@ -1,0 +1,65 @@
+﻿@model Presentacion.Models.AltaEventoViewModel
+
+@{
+    ViewData["Title"] = "Crear Evento";
+}
+
+<h2>Crear Evento</h2>
+@ViewBag.Error
+<br />
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="DTOAltaEvento.NombreEvento" class="control-label"></label>
+        <input asp-for="DTOAltaEvento.NombreEvento" class="form-control" />
+        <span asp-validation-for="DTOAltaEvento.NombreEvento" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label for="IdDisciplina" class="control-label">Disciplina</label>
+        <select id="IdDisciplina" name="DTOAltaEvento.IdDisciplina" class="form-control">
+            <option value="">Seleccione una Disciplina</option>
+            @foreach (var disciplina in Model.DTODisciplinas)
+            {
+                <option value="@disciplina.IdDisciplina">
+                    @disciplina.NombreDisciplina
+                </option>
+            }
+        </select>
+        <span asp-validation-for="DTOAltaEvento.IdDisciplina" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="DTOAltaEvento.FechaInicioEvento" class="control-label"></label>
+        <input asp-for="DTOAltaEvento.FechaInicioEvento" type="date" class="form-control"
+               min="2024-01-01" value="@DateTime.Today.ToString("yyyy-MM-dd")" />
+        <span asp-validation-for="DTOAltaEvento.FechaInicioEvento" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="DTOAltaEvento.FechaFinalEvento" class="control-label"></label>
+        <input asp-for="DTOAltaEvento.FechaFinalEvento" type="date" class="form-control"
+               min="2024-01-01" value="@DateTime.Today.ToString("yyyy-MM-dd")" />
+        <span asp-validation-for="DTOAltaEvento.FechaFinalEvento" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label class="control-label" for="IdsAtletas">Atletas Participantes</label>
+        <select id="IdsAtletas" name="DTOAltaEvento.IdsAtletas" class="form-control" multiple size="5">
+            @foreach (var atleta in Model.DTOAtleta)
+            {
+                <option value="@atleta.IdAtleta">
+                    @atleta.NombreAtleta @atleta.ApellidoAtleta
+                </option>
+            }
+        </select>
+        <span asp-validation-for="DTOAltaEvento.IdsAtletas" class="text-danger"></span>
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

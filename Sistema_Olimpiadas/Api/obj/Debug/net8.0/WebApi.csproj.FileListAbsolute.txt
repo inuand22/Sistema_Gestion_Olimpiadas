@@ -1,0 +1,410 @@
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\appsettings.Development.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\appsettings.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\WebApi.exe
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\WebApi.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\WebApi.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\WebApi.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Azure.Core.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\LogicaDatos.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.csproj.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\refint\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\4ta Entrega\15-10\15-10 --1730 -- ANDRES -- FALTA API\Api\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\WebApi.exe
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\WebApi.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Sin Documentación\Api\obj\Debug\net8.0\ref\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\refint\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\Final Falta poco UML\Api\obj\Debug\net8.0\WebApi.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\WebApi.exe
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\WebApi.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta Aplicacion,Presentacion, API UML\Api\obj\Debug\net8.0\ref\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\appsettings.Development.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\appsettings.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\WebApi.exe
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\WebApi.deps.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\WebApi.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\WebApi.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Azure.Core.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\DTO.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\LogicaDatos.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\LogicaNegocio.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\LogicaDatos.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\DTO.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.csproj.Up2Date
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\refint\WebApi.dll
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.pdb
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\Programación III\Obligatorio\Obligatorio FINAL\17-10\Final Falta script sql, carpeta\Api\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\WebApi.exe
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\WebApi.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\DTO.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\LogicaDatos.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\LogicaDatos.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\DTO.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.pdb
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\Api\obj\Debug\net8.0\ref\WebApi.dll

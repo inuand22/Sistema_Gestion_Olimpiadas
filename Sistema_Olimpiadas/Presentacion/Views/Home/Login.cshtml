@@ -1,0 +1,31 @@
+﻿@model DTO.LoginUsuarioDTO
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h2 class="text-center">Iniciar Sesión</h2>
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger">@ViewBag.Error</div>
+            }
+            <form asp-controller="Home" asp-action="Login" method="post">
+                <div class="form-group">
+                    <label asp-for="EmailUsuario" class="control-label"></label>
+                    <input asp-for="EmailUsuario" class="form-control"  />
+                    <span asp-validation-for="EmailUsuario" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ContraseniaUsuario" class="control-label"></label>
+                    <input asp-for="ContraseniaUsuario" class="form-control" type="password"/>
+                    <span asp-validation-for="ContraseniaUsuario" class="text-danger"></span>
+                </div>
+                <br />
+                <button type="submit" class="btn btn-primary">Ingresar</button>
+            </form>
+        </div>
+    </div>
+</div>

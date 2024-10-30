@@ -1,0 +1,136 @@
+-- Precarga de Roles
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[Roles] ([Nombre])
+VALUES
+('Administrador'),
+('Digitador');
+
+-- Precarga de Usuarios
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[Usuarios] 
+    ([Email_Valor], [Contrasenia_Valor], [RolId], [Date], [Hour], [EmailAdmin])
+VALUES
+    -- Administradores
+    ('maria.gomez@comiteolimpico.org', 'Inicio1234.!', 1, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('juan.perez@comiteolimpico.org', 'Inicio1234.!', 1, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('ana.lopez@comiteolimpico.org', 'Inicio1234.!', 1, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    -- Digitadores
+    ('carlos.martinez@comiteolimpico.org', 'Inicio1234.!', 2, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('laura.garcia@comiteolimpico.org', 'Inicio1234.!', 2, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('pedro.fernandez@comiteolimpico.org', 'Inicio1234.!', 2, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('sofia.rodriguez@comiteolimpico.org', 'Inicio1234.!', 2, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('david.sanchez@comiteolimpico.org', 'Inicio1234.!', 2, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('carolina.diaz@comiteolimpico.org', 'Inicio1234.!', 2, GETDATE(), GETDATE(), 'admin@comiteolimpico.org'),
+    ('alejandro.ramirez@comiteolimpico.org', 'Inicio1234.!', 2, GETDATE(), GETDATE(), 'admin@comiteolimpico.org');
+
+-- Precarga de Delegados
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[Delegados] 
+    ([Nombre], [Telefono])
+VALUES
+    ('Juan Pérez', '1234567890'),
+    ('María González', '0987654321'),
+    ('Carlos Ramírez', '1122334455'),
+    ('Ana Torres', '55667788'),
+    ('José Rodríguez', '66778899'),
+    ('Laura Fernández', '77889900'),
+    ('Miguel Gutiérrez', '88990011'),
+    ('Sofía Martínez', '99001122'),
+    ('Pedro Gómez', '1010101010'),
+    ('Lucía Herrera', '2020202020');
+
+-- Precarga de Países
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[Paises] 
+    ([Nombre], [CantidadHabitantes], [DelegadoId])
+VALUES
+    ('Estados Unidos', 331002651, 1),
+    ('España', 47351567, 2),
+    ('Alemania', 83166711, 3),
+    ('Japón', 126476461, 4),
+    ('Francia', 65273511, 5),
+    ('China', 1439323776, 6),
+    ('Rusia', 145912025, 7),
+    ('Emiratos Árabes Unidos', 9890402, 8),
+    ('Brasil', 212559417, 9),
+    ('Egipto', 102334404, 10);
+
+-- Precarga de Atletas
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[Atletas] 
+    ([Nombre], [Apellido], [EsMasculino], [PaisId])
+VALUES
+    ('Michael', 'Phelps', 1, 1),  -- Estados Unidos
+    ('Usain', 'Bolt', 1, 9),      -- Brasil
+    ('Simone', 'Biles', 0, 1),    -- Estados Unidos
+    ('Rafael', 'Nadal', 1, 3),    -- España
+    ('Serena', 'Williams', 0, 1), -- Estados Unidos
+    ('Yao', 'Ming', 1, 6),        -- China
+    ('Neymar', 'Junior', 1, 9),   -- Brasil
+    ('Maria', 'Sharapova', 0, 7), -- Rusia
+    ('Didier', 'Drogba', 1, 10),  -- Egipto
+    ('Naomi', 'Osaka', 0, 5);     -- Japón
+
+-- Precarga de Disciplinas
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[Disciplinas] 
+    ([Nombre_Valor], [AnioDisciplina_Valor])
+VALUES
+    ('Natación Olimpica', 1896),
+    ('Atletismo Olimpico', 1896),
+    ('Gimnasia Olimpica', 1896),
+    ('Fútbol Olimpico', 1900),
+    ('Tenis Olimpico', 1896),
+    ('Baloncesto Olimpico', 1936),
+    ('Voleibol Olimpico', 1964),
+    ('Boxeo Olimpico', 1904),
+    ('Ciclismo Olimpico', 1896),
+    ('Judo Olimpico', 1964);
+
+
+
+-- Precarga parcial: 3 disciplinas variadas por cada atleta
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[AtletaDisciplina] ([AtletasId], [DisciplinasId])
+VALUES
+    (1, 1), (1, 2), (1, 5),
+    (2, 2), (2, 3), (2, 7),
+    (3, 1), (3, 4), (3, 6),
+    (4, 3), (4, 5), (4, 8),
+    (5, 4), (5, 6), (5, 9),
+    (6, 2), (6, 7), (6, 10),
+    (7, 1), (7, 3), (7, 9),
+    (8, 5), (8, 6), (8, 10),
+    (9, 2), (9, 4), (9, 8),
+    (10, 1), (10, 7), (10, 3);
+
+
+
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[Eventos] 
+    ([NombreEvento_Valor], [DisciplinaId], [FechaInicio], [FechaFinal])
+VALUES
+    ('100m Masculino Final', 2, '2024-07-30', '2024-07-30'),
+    ('200m Femenino Final', 2, '2024-07-31', '2024-07-31'),
+    ('Salto Largo Masculino', 2, '2024-08-01', '2024-08-01'),
+    ('Final de Gimnasia Artística', 3, '2024-08-02', '2024-08-02'),
+    ('Final de Judo', 10, '2024-08-03', '2024-08-03'),
+    ('Final de Natación 100m Libre', 1, '2024-07-28', '2024-07-28'),
+    ('Final de Fútbol Masculino', 4, '2024-08-10', '2024-08-10'),
+    ('Final de Tenis Femenino', 5, '2024-08-11', '2024-08-11'),
+    ('Maratón Masculino', 2, '2024-08-12', '2024-08-12'),
+    ('Final de Boxeo Peso Pesado', 8, '2024-08-13', '2024-08-13');
+
+
+INSERT INTO [Obligatorio_Olimpiadas].[dbo].[EventoAtleta] ([AtletaId], [EventoId], [PuntajeAtleta])
+VALUES
+    (1, 1, 85.5),
+    (1, 2, 90.2),
+    (2, 1, 78.3),
+    (2, 3, 88.1),
+    (3, 2, 92.7),
+    (4, 1, 75.0),
+    (5, 3, 80.5),
+    (6, 2, 95.4),
+    (7, 1, 70.9),
+    (8, 2, 89.6);
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<DTO.Mappers.ListadoEventoAtletaDTO>
+
+@{
+    ViewData["Title"] = "Atletas en Evento";
+}
+
+<h1>Atletas en Evento</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.IdAtleta)</th>
+            <th>@Html.DisplayNameFor(model => model.NombreAtleta)</th>
+            <th>@Html.DisplayNameFor(model => model.IdEvento)</th>
+            <th>@Html.DisplayNameFor(model => model.NombreEvento)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaEvento)</th>
+            <th>@Html.DisplayNameFor(model => model.PuntajeAtleta)</th>
+            <th>Nuevo Puntaje</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var puntajeActual = item.PuntajeAtleta ?? 0;
+
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.IdAtleta)</td>
+                <td>@Html.DisplayFor(modelItem => item.NombreAtleta)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdEvento)</td>
+                <td>@Html.DisplayFor(modelItem => item.NombreEvento)</td>
+                <td>@item.FechaEvento.ToString("dd/MM/yyyy")</td>
+                <td>@puntajeActual</td>
+                <td>
+                    <form asp-action="RegistrarPuntaje" method="post" onsubmit="return validateScore(this)">
+                        <input type="hidden" name="IdAtleta" value="@item.IdAtleta" />
+                        <input type="hidden" name="idEvento" value="@item.IdEvento" />
+                        <input type="text" name="puntajeAtleta" class="form-control" required />
+                        <button type="submit" class="btn btn-primary mt-2">Guardar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        @ViewBag.Mensaje
+    </tbody>
+</table>
+
+<script>
+    function validateScore(form) {
+        let puntaje = parseFloat(form.puntajeAtleta.value);
+
+        if (isNaN(puntaje) || puntaje < 0 || puntaje > 100) {
+            alert("El puntaje debe estar entre 0 y 100.");
+            return false;
+        }
+        return true;
+    }
+</script>

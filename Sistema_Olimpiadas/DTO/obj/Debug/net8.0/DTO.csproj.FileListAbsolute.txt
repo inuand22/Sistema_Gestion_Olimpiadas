@@ -999,3 +999,37 @@ C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\DTO\obj\Debug\net8.0\DTO.
 C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\DTO\obj\Debug\net8.0\refint\DTO.dll
 C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\DTO\obj\Debug\net8.0\DTO.pdb
 C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\DTO\obj\Debug\net8.0\ref\DTO.dll

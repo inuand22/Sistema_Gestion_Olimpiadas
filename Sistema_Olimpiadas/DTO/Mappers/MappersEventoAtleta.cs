@@ -38,7 +38,8 @@ namespace DTO.Mappers
                     IdEvento = eventoAtleta.Evento.Id,
                     NombreEvento = eventoAtleta.Evento.NombreEvento.Valor,
                     PuntajeAtleta = eventoAtleta.PuntajeAtleta,
-                    FechaEvento = eventoAtleta.Evento.FechaFinal
+                    FechaEvento = eventoAtleta.Evento.FechaFinal,
+                    IdDisciplina = eventoAtleta.Evento.Disciplina.Id
                 };
                 return dto;
             }

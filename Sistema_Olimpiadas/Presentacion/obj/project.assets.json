@@ -7809,23 +7809,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
+    "C:\\Users\\49125087\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Presentacion.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\obj\\",
+      "projectPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Presentacion.csproj",
+      "packagesPath": "C:\\Users\\49125087\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\49125087\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7841,14 +7841,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\DTO\\DTO.csproj": {
-              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\DTO\\DTO.csproj"
+            "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\DTO\\DTO.csproj"
             },
-            "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaAplicacion\\LogicaAplicacion.csproj": {
-              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaAplicacion\\LogicaAplicacion.csproj"
+            "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaAplicacion\\LogicaAplicacion.csproj": {
+              "projectPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaAplicacion\\LogicaAplicacion.csproj"
             },
-            "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaDatos\\LogicaDatos.csproj": {
-              "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaDatos\\LogicaDatos.csproj"
+            "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaDatos\\LogicaDatos.csproj": {
+              "projectPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaDatos\\LogicaDatos.csproj"
             }
           }
         }
@@ -7904,7 +7904,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -29,6 +29,9 @@ namespace DTO.Mappers
 
         [Display(Name = "Fecha del Evento")]
         public DateTime FechaEvento { get; set; }
+
+        [Display(Name = "ID Disciplina")]
+        public int IdDisciplina { get; set; }
     }
 }
 

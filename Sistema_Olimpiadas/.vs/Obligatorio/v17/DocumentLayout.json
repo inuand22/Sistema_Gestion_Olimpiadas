@@ -1,29 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\",
+  "WorkspaceRootPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorios finales\\obligatorio final 17-10\\presentacion\\views\\atleta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\api\\controllers\\eventoatletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC12D1B-9082-4D0D-BE8F-A5DF11645211}|Api\\WebApi.csproj|solutionrelative:api\\controllers\\eventoatletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\dto\\mappers\\mapperseventoatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|solutionrelative:dto\\mappers\\mapperseventoatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\logicadatos\\repositorios\\repositorioeventoatletabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\repositorios\\repositorioeventoatletabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\dto\\listadoeventoatletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955F30BF-F8EA-482B-9259-77338529D6AC}|DTO\\DTO.csproj|solutionrelative:dto\\listadoeventoatletadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\presentacion\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\presentacion\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\presentacion\\views\\atleta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\atleta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorios finales\\obligatorio final 17-10\\presentacion\\views\\evento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\presentacion\\views\\evento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorios finales\\obligatorio final 17-10\\presentacion\\views\\evento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\presentacion\\views\\evento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\evento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorios finales\\obligatorio final 17-10\\presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorios finales\\obligatorio final 17-10\\presentacion\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\presentacion\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{156939AA-4EDC-4501-AA82-B1093626A214}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n iii\\obligatorios finales\\obligatorio final 17-10\\logicadatos\\migrations\\20241017142722_4ta_entregafinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|c:\\users\\49125087\\desktop\\personal\\ort\\p3\\obligatorio 1 final -- corregido --\\logicadatos\\migrations\\20241017142722_4ta_entregafinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D1EFAF9-32EA-4662-8AA5-7595E69C79DC}|LogicaDatos\\LogicaDatos.csproj|solutionrelative:logicadatos\\migrations\\20241017142722_4ta_entregafinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,19 +58,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioEventoAtletaBD.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioEventoAtletaBD.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:02:58.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoAtletaController.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Api\\Controllers\\EventoAtletaController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EventoAtletaController.cs",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Api\\Controllers\\EventoAtletaController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EventoAtletaController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:03:16.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MappersEventoAtleta.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\DTO\\Mappers\\MappersEventoAtleta.cs",
+              "RelativeDocumentMoniker": "DTO\\Mappers\\MappersEventoAtleta.cs",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\DTO\\Mappers\\MappersEventoAtleta.cs",
+              "RelativeToolTip": "DTO\\Mappers\\MappersEventoAtleta.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:00:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListadoEventoAtletaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\DTO\\ListadoEventoAtletaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ListadoEventoAtletaDTO.cs",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\DTO\\ListadoEventoAtletaDTO.cs",
+              "RelativeToolTip": "DTO\\ListadoEventoAtletaDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:59:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Presentacion\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAYwK8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:19:30.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentacion\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Presentacion\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T11:17:57.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Evento\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Evento\\Edit.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\Edit.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Evento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Evento\\Edit.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Evento\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -54,11 +155,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Evento\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Evento\\Create.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Evento\\Create.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Evento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Evento\\Create.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Evento\\Create.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -66,24 +167,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Atleta\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Atleta\\Edit.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Atleta\\Edit.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Atleta\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Atleta\\Edit.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Atleta\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T22:04:14.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:04:14.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Home\\Login.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -91,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Presentacion\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\Presentacion\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\Presentacion\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Presentacion\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -103,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "20241017142722_4ta_entregaFinal.cs",
-              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaDatos\\Migrations\\20241017142722_4ta_entregaFinal.cs",
+              "DocumentMoniker": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaDatos\\Migrations\\20241017142722_4ta_entregaFinal.cs",
               "RelativeDocumentMoniker": "LogicaDatos\\Migrations\\20241017142722_4ta_entregaFinal.cs",
-              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaDatos\\Migrations\\20241017142722_4ta_entregaFinal.cs",
+              "ToolTip": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaDatos\\Migrations\\20241017142722_4ta_entregaFinal.cs",
               "RelativeToolTip": "LogicaDatos\\Migrations\\20241017142722_4ta_entregaFinal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

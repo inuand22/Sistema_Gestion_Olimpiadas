@@ -636,3 +636,25 @@ C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\De
 C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
 C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
 C:\Users\lucia\OneDrive\Escritorio\Final Falta carpeta\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio final 17-10\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\49125087\Desktop\Personal\ORT\P3\Obligatorio 1 Final -- CORREGIDO --\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll

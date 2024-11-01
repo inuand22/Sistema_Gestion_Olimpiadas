@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaNegocio\\LogicaNegocio.csproj": {}
+    "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaNegocio\\LogicaNegocio.csproj": {}
   },
   "projects": {
-    "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
+    "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+        "projectUniqueName": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
         "projectName": "ExcepcionesPropias",
-        "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\ExcepcionesPropias\\obj\\",
+        "projectPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\ExcepcionesPropias\\ExcepcionesPropias.csproj",
+        "packagesPath": "C:\\Users\\49125087\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\ExcepcionesPropias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\49125087\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaNegocio\\LogicaNegocio.csproj": {
+    "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaNegocio\\LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaNegocio\\LogicaNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaNegocio\\LogicaNegocio.csproj",
         "projectName": "LogicaNegocio",
-        "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaNegocio\\LogicaNegocio.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\LogicaNegocio\\obj\\",
+        "projectPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaNegocio\\LogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\49125087\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\LogicaNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\49125087\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
-                "projectPath": "F:\\USUARIO\\Desktop\\ORT\\Programación III\\OBLIGATORIOS FINALES\\Obligatorio final 17-10\\ExcepcionesPropias\\ExcepcionesPropias.csproj"
+              "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\ExcepcionesPropias\\ExcepcionesPropias.csproj": {
+                "projectPath": "C:\\Users\\49125087\\Desktop\\Personal\\ORT\\P3\\Obligatorio 1 Final -- CORREGIDO --\\ExcepcionesPropias\\ExcepcionesPropias.csproj"
               }
             }
           }
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

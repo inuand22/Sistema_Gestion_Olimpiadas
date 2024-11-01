@@ -133,18 +133,12 @@
           "LogicaNegocio": "1.0.0"
         },
         "runtime": {
-          "DTO.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DTO.dll": {}
         }
       },
       "ExcepcionesPropias/1.0.0": {
         "runtime": {
-          "ExcepcionesPropias.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ExcepcionesPropias.dll": {}
         }
       },
       "LogicaNegocio/1.0.0": {
@@ -154,10 +148,7 @@
           "Microsoft.EntityFrameworkCore.Abstractions": "8.0.8"
         },
         "runtime": {
-          "LogicaNegocio.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LogicaNegocio.dll": {}
         }
       }
     }

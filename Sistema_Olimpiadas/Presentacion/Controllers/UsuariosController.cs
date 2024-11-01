@@ -129,8 +129,8 @@ namespace Presentacion.Controllers
             {
                 string? emailUsuarioLogueado = HttpContext.Session.GetString("emailUsuarioLogueado");
                 DateTime fecha = DateTime.Now.Date;
-                string fechaFormateada = fecha.ToString("dd/MM/yyyy");
-                string horaFormateada = DateTime.Now.ToString("HH:mm");
+                string fechaFormateada = fecha.ToString("MMM dd yyyy h:mmtt");
+                string horaFormateada = DateTime.Now.ToString("MMM dd yyyy h:mmtt");
                 vm.DTOAltaUsuario.EmailAdmin = emailUsuarioLogueado;
                 vm.DTOAltaUsuario.Date = fechaFormateada;
                 vm.DTOAltaUsuario.Hora = horaFormateada;
@@ -173,11 +173,7 @@ namespace Presentacion.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit(AltaUsuarioViewModel vm)
         {
-            //AltaUsuarioViewModel vmPost = new AltaUsuarioViewModel
-            //{
-            //    DTOAltaUsuario = vm.DTOAltaUsuario,
-            //    RolesDTO = CUListadoRoles.ObtenerListado()
-            //};
+            vm.RolesDTO = CUListadoRoles.ObtenerListado();
             try
             {
                 string? emailUsuarioLogueado = HttpContext.Session.GetString("emailUsuarioLogueado");

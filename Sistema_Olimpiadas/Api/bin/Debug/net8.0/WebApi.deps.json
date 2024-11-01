@@ -558,18 +558,12 @@
           "LogicaNegocio": "1.0.0"
         },
         "runtime": {
-          "DTO.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DTO.dll": {}
         }
       },
       "ExcepcionesPropias/1.0.0": {
         "runtime": {
-          "ExcepcionesPropias.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ExcepcionesPropias.dll": {}
         }
       },
       "LogicaAplicacion/1.0.0": {
@@ -579,10 +573,7 @@
           "LogicaNegocio": "1.0.0"
         },
         "runtime": {
-          "LogicaAplicacion.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LogicaAplicacion.dll": {}
         }
       },
       "LogicaDatos/1.0.0": {
@@ -591,10 +582,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "runtime": {
-          "LogicaDatos.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LogicaDatos.dll": {}
         }
       },
       "LogicaNegocio/1.0.0": {
@@ -604,10 +592,7 @@
           "Microsoft.EntityFrameworkCore.Abstractions": "8.0.8"
         },
         "runtime": {
-          "LogicaNegocio.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LogicaNegocio.dll": {}
         }
       }
     }
